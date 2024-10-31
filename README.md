@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate in future 
 - 📫 How to reach me 7690863039  , aavdhesh.dadhich@gmail.com
 - 😄 Pronouns: brother 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i am in first year and know very less about language but still interested in coding 
 
 <!---
 Itzzavdheshh/Itzzavdheshh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
