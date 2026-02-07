@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Itzzavdheshh
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C and html 
-- 💞️ I’m looking to collaborate in future 
-- 📫 How to reach me 7690863039  , aavdhesh.dadhich@gmail.com
-- 😄 Pronouns: brother 
-- ⚡ Fun fact: i am in first year and know very less about language but still interested in coding 
+- 👀 I’m interested in coding and Android development
+- 🌱 I’m currently learning C, Python, and Java
+- 💞️ I’m looking to collaborate in future
+- 📫 How to reach me: 7690863039, aavdhesh.dadhich@gmail.com
+- ⚡ Fun fact: I’m in Second year and know very little about programming languages, but I’m highly interested in coding and learning new things 🚀 
 
 <!---
 Itzzavdheshh/Itzzavdheshh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
