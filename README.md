@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and Android development
 - 🌱 I’m currently learning C, Python, and Java
 - 💞️ I’m looking to collaborate in future
-- 📫 How to reach me: 7690863039, aavdhesh.dadhich@gmail.com
+- 📫 How to reach me: aavdhesh.dadhich@gmail.com
 - ⚡ Fun fact: I’m in Second year and know very little about programming languages, but I’m highly interested in coding and learning new things 🚀 
 
 <!---
