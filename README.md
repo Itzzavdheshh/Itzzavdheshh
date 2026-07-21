@@ -115,7 +115,28 @@ Lets a guest or AI agent join a host's live Chrome tab as a ghost collaborator �
 ## 📊 GitHub Analytics
 
 <!--START_SECTION:STATS-->
-🔄 This section updates automatically once the workflow runs — trigger it from the **Actions** tab, or wait for the next scheduled run.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Itzzavdheshh&show_icons=true&hide_border=true&bg_color=FFFDF8&title_color=D97706&text_color=1F2937&icon_color=059669&ring_color=0EA5E9" alt="GitHub Stats" width="100%" />
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Itzzavdheshh&hide_border=true&background=FFFDF8&stroke=0EA5E9&ring=D97706&fire=D97706&currStreakLabel=1F2937&sideLabels=1F2937&currStreakNum=1F2937&sideNums=1F2937&dates=6B7280" alt="Streak Stats" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Itzzavdheshh&bg_color=FFFDF8&color=1F2937&line=D97706&point=059669&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Itzzavdheshh/Itzzavdheshh/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itzzavdheshh/Itzzavdheshh/output/github-contribution-grid-snake.svg" />
+<img alt="Contribution Snake" src="https://raw.githubusercontent.com/Itzzavdheshh/Itzzavdheshh/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 <!--END_SECTION:STATS-->
 
 <br/>
@@ -124,13 +145,63 @@ Lets a guest or AI agent join a host's live Chrome tab as a ghost collaborator �
 _Auto-updated daily — pulled directly from this account's public repos._
 
 <!--START_SECTION:PROJECTS-->
-🔄 This section updates automatically once the workflow runs.
+| Repository | Description | Language | Stars |
+|---|---|---|---|
+| [MentorSarthiApp](https://github.com/Itzzavdheshh/MentorSarthiApp) | _no description_ | TypeScript | ⭐ 1 |
+| [NEXORA](https://github.com/Itzzavdheshh/NEXORA) | Mentorship booking platform connecting students with verified mentors — real-time availability, role-based dashboards, and secure booking. Built with React, Node.js, Express & Supabase. | JavaScript | ⭐ 0 |
+| [firstproject](https://github.com/Itzzavdheshh/firstproject) | _no description_ | — | ⭐ 0 |
+| [Bouncing-Ball-Animation-in-C-Sinusoidal-Path-with-graphics.h-](https://github.com/Itzzavdheshh/Bouncing-Ball-Animation-in-C-Sinusoidal-Path-with-graphics.h-) | Bouncing Ball Animation in C (Sinusoidal Path with graphics.h) | — | ⭐ 0 |
+
 <!--END_SECTION:PROJECTS-->
 
 ### 🍴 Forked Repositories
 
 <!--START_SECTION:FORKS-->
-🔄 This section updates automatically once the workflow runs.
+<details>
+<summary>Show 40 forked repositories</summary>
+
+- [PingUp](https://github.com/Itzzavdheshh/PingUp)
+- [VoiceForge](https://github.com/Itzzavdheshh/VoiceForge) — VoiceForge is a browser-based assistive video tool that lets a user type during calls and output cloned speech with a lip-synced face preview.
+- [med-genie](https://github.com/Itzzavdheshh/med-genie)
+- [StudyMatePlus](https://github.com/Itzzavdheshh/StudyMatePlus) — 📘 StudyMatePlus An open-source platform to access university syllabus, PYQs, student feedback, and connect with seniors for exam help.
+- [story-spark-ai](https://github.com/Itzzavdheshh/story-spark-ai) — StorySparkAI is an open-source platform designed for creative minds to generate and share multiple story variations from a single prompt.
+- [VidyaSetu](https://github.com/Itzzavdheshh/VidyaSetu) — AI-powered study platform for NCERT learning, quizzes, notes, and personalized revision.
+- [CommDesk](https://github.com/Itzzavdheshh/CommDesk) — CommDesk is a modern desktop platform built for communities, clubs, and organizations to manage their activities in one place.
+- [DevCard](https://github.com/Itzzavdheshh/DevCard)
+- [reframe](https://github.com/Itzzavdheshh/reframe) — Free, open-source video editor that runs in your browser. No login, no uploads, no ads.
+- [GSoC-Org-Finder-](https://github.com/Itzzavdheshh/GSoC-Org-Finder-) — Find your perfect GSoC 2026 organization- filter all 184 selected orgs by your tech stack, language, and domain. No install needed.
+- [grad](https://github.com/Itzzavdheshh/grad)
+- [NexaSphere-gssoc](https://github.com/Itzzavdheshh/NexaSphere-gssoc)
+- [NexaSphere](https://github.com/Itzzavdheshh/NexaSphere)
+- [Checkora](https://github.com/Itzzavdheshh/Checkora) — Chess platform with an AI opponent powered by minimax search with alpha-beta pruning, built on Django and a C++ engine.
+- [spectrax_1](https://github.com/Itzzavdheshh/spectrax_1)
+- [gitverse-nextjs](https://github.com/Itzzavdheshh/gitverse-nextjs) — Turn any GitHub repo into an interactive map of its architecture, modules, and risks.  GitVerse is built for the moment you open a new codebase and ask: “Where do I start?” ⭐ Star the repo 🍴 Fork the repo 💻 Clone it locally 🛠 Pick an issue and start working on it Join Discord https://discord.gg/FREhkc8cMg
+- [bdstorage](https://github.com/Itzzavdheshh/bdstorage) — A CLI-based Content-Addressable Storage (CAS) engine that deduplicates files across your system
+- [Vector-social-media](https://github.com/Itzzavdheshh/Vector-social-media) — A context-first social media platform
+- [vite](https://github.com/Itzzavdheshh/vite) — Next generation frontend tooling. It's fast!
+- [gradtopro-oops-ds-101](https://github.com/Itzzavdheshh/gradtopro-oops-ds-101) — Grad to Pro Java Basics OOPs and Data Structure 101
+- [news-setu](https://github.com/Itzzavdheshh/news-setu)
+- [toofan](https://github.com/Itzzavdheshh/toofan) — A minimal, lightning-fast typing TUI for your terminal
+- [nowbind](https://github.com/Itzzavdheshh/nowbind) — The open platform that binds content to context.
+- [SaveBook](https://github.com/Itzzavdheshh/SaveBook) — SaveBook \| modern web application designed for note-taking and knowledge management.
+- [Legalassist-AI](https://github.com/Itzzavdheshh/Legalassist-AI)
+- [Blood-Connect-By-ChronalLabs](https://github.com/Itzzavdheshh/Blood-Connect-By-ChronalLabs)
+- [LexTransition-AI](https://github.com/Itzzavdheshh/LexTransition-AI) — LexTransition AI is an open-source, offline-first legal assistant. It helps users navigate the transition from old Indian laws (IPC/CrPC/IEA) to the new **BNS/BNSS/BSA** frameworks. Using local Machine Learning and OCR, it analyzes legal documents and maps law sections with 100% grounded accuracy.
+- [smart-campus-utility-hub](https://github.com/Itzzavdheshh/smart-campus-utility-hub) — Open-source smart campus platform for AI timetable generation, elective allocation, and event management. React, Node.js, PostgreSQL.
+- [order-stream](https://github.com/Itzzavdheshh/order-stream) — WIP - Comprehensive order processing microservices based system made with spring-boot & rabbitmq pipeline.
+- [Mailguard](https://github.com/Itzzavdheshh/Mailguard)
+- [linkid](https://github.com/Itzzavdheshh/linkid)
+- [daytona](https://github.com/Itzzavdheshh/daytona) — Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+- [jan_suraksha](https://github.com/Itzzavdheshh/jan_suraksha) — jan surksha crime portal
+- [VerifyAE](https://github.com/Itzzavdheshh/VerifyAE) — VerifyAE is an AI-powered misinformation detection platform tailored for the UAE. Users can submit news or messages, and the system analyzes the claim, cross-checks it with trusted government and official sources, and provides a credibility score with clear explanations and red flag alerts.
+- [solace-agent-mesh](https://github.com/Itzzavdheshh/solace-agent-mesh) — An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of AI agents with real-world data sources and systems, facilitating complex, multi-step workflows.
+- [Periodic-Table-Explorer](https://github.com/Itzzavdheshh/Periodic-Table-Explorer)
+- [FlowForge](https://github.com/Itzzavdheshh/FlowForge) — FlowForge is a modern developer collaboration platform combining project management, real-time communication, and workspace activity tracking.
+- [pathway](https://github.com/Itzzavdheshh/pathway) — Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+- [llm-app](https://github.com/Itzzavdheshh/llm-app) — Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.
+- [hyperswitch](https://github.com/Itzzavdheshh/hyperswitch) — An open source payments switch written in Rust to make payments fast, reliable and affordable
+
+</details>
 <!--END_SECTION:FORKS-->
 
 <br/>
@@ -138,7 +209,7 @@ _Auto-updated daily — pulled directly from this account's public repos._
 <div align="center">
 
 <!--START_SECTION:VISITORS-->
-🔄 Updates automatically once the workflow runs.
+![Visitor Count](https://komarev.com/ghpvc/?username=Itzzavdheshh&color=0EA5E9&style=flat-square&label=Profile+Views)
 <!--END_SECTION:VISITORS-->
 
 ⚡️ Keep building. Keep shipping. ⚡️
