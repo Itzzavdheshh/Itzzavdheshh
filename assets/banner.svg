@@ -1,0 +1,52 @@
+<svg viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Avdhesh Kumar Dadhich — App and Full-Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="50%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#0EA5E9"/>
+      <animate attributeName="x1" values="0%;22%;0%" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;78%;100%" dur="10s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="rounded">
+      <rect width="1200" height="260" rx="22" ry="22"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="260" fill="url(#bg)"/>
+
+    <!-- floating decorative circles -->
+    <circle cx="120" cy="58" r="46" fill="#FFFFFF" opacity="0.10">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 14,-12; 0,0" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1080" cy="205" r="60" fill="#FFFFFF" opacity="0.10">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -16,10; 0,0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1010" cy="46" r="28" fill="#FFFFFF" opacity="0.12">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -10,14; 0,0" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="170" cy="215" r="22" fill="#FFFFFF" opacity="0.12">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 12,-8; 0,0" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="30" r="16" fill="#FFFFFF" opacity="0.10">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,10; 0,0" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- gentle bottom wave -->
+    <path d="M0,232 Q150,204 300,226 T600,222 T900,229 T1200,216 L1200,260 L0,260 Z" fill="#FFFFFF" opacity="0.09">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -24,0; 0,0" dur="8s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- name -->
+    <text x="600" y="128" text-anchor="middle" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="46" font-weight="700" fill="#FFFFFF" opacity="0">
+      Avdhesh Kumar Dadhich
+      <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.1s" fill="freeze"/>
+    </text>
+
+    <!-- tagline -->
+    <text x="600" y="170" text-anchor="middle" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="21" font-weight="400" fill="#FFFFFF" opacity="0">
+      App &amp; Full-Stack Developer   •   B.Tech CSE @ JIET Jodhpur
+      <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.5s" fill="freeze"/>
+    </text>
+  </g>
+</svg>
