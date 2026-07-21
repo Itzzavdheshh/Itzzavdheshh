@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="Avdhesh Kumar Dadhich banner" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1F2937&center=true&vCenter=true&width=650&height=50&lines=B.Tech+CSE+Student+%40+JIET+Jodhpur;App+%26+Full-Stack+Developer;Building+Nexora+-+Mentorship+Platform;GSSoC+Project+Admin+%26+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=cf99b0&center=true&vCenter=true&width=650&height=50&lines=B.Tech+CSE+Student+%40+JIET+Jodhpur;App+%26+Full-Stack+Developer;Building+Nexora+-+Mentorship+Platform;GSSoC+Project+Admin+%26+Contributor" alt="Typing SVG" />
 
 <br/>
 
