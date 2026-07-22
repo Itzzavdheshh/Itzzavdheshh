@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="Avdhesh Kumar Dadhich banner" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1F2937&background=FFFDF8&center=true&vCenter=true&width=650&height=60&lines=B.Tech+CSE+Student+%40+JIET+Jodhpur;App+%26+Full-Stack+Developer;Building+Nexora+-+Mentorship+Platform;GSSoC+Project+Admin+%26+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1F2937&center=true&vCenter=true&width=650&height=50&lines=B.Tech+CSE+Student+%40+JIET+Jodhpur;App+%26+Full-Stack+Developer;Building+Nexora+-+Mentorship+Platform;GSSoC+Project+Admin+%26+Contributor" alt="Typing SVG" />
 
 <br/>
 
@@ -31,19 +31,20 @@
 
 ## 🛠️ Tech Stack
 
-<table width="100%">
-<tr><td align="center">
-<br/>
+<div align="center">
 <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,androidstudio,flutter,react,nextjs,tailwind,vite,nodejs,express,postgres,git,githubactions,docker,vercel&theme=light&perline=6" alt="Tech stack icons" />
-<br/><br/>
-</td></tr>
-</table>
+</div>
 
 <br/>
 
 ## 🌱 Open Source Journey
 
-<img src="assets/opensource.svg" width="100%" alt="Open source journey — GSSoC, NSOC, SSOC, ELUSOC" />
+| Program | Role |
+|---|---|
+| **GSSoC** (GirlScript Summer of Code) | Project Admin & Contributor |
+| **NSOC** | Project Admin & Contributor |
+| **SSOC** (Social Summer of Code) | Project Admin & Contributor |
+| **ELUSOC** | Project Admin & Contributor |
 
 <details>
 <summary><b>📌 Highlights (click to expand)</b></summary>
