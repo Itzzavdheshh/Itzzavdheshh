@@ -1,0 +1,51 @@
+<svg viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open Source Journey">
+  <rect x="1" y="1" width="1198" height="238" rx="20" ry="20" fill="#FFFDF8" stroke="#F0EAD9" stroke-width="1"/>
+
+  <text x="600" y="42" text-anchor="middle" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="24" font-weight="700" fill="#1F2937">
+    🌱 Open Source Journey
+  </text>
+
+  <!-- GSSoC -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.15s" fill="freeze"/>
+    <rect x="30" y="65" width="270" height="150" rx="14" fill="#F59E0B"/>
+    <rect x="30" y="103" width="270" height="112" rx="10" fill="#FFFFFF"/>
+    <text x="165" y="90" text-anchor="middle" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">GSSoC</text>
+    <text x="165" y="133" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="12" fill="#6B7280">GirlScript Summer of Code</text>
+    <text x="165" y="167" text-anchor="middle" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="14" font-weight="700" fill="#B45309">🏅 Project Admin</text>
+    <text x="165" y="190" text-anchor="middle" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="14" font-weight="700" fill="#B45309">&amp; Contributor</text>
+  </g>
+
+  <!-- NSOC -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.35s" fill="freeze"/>
+    <rect x="320" y="65" width="270" height="150" rx="14" fill="#10B981"/>
+    <rect x="320" y="103" width="270" height="112" rx="10" fill="#FFFFFF"/>
+    <text x="455" y="90" text-anchor="middle" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">NSOC</text>
+    <text x="455" y="133" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="12" fill="#6B7280">National Summer of Code</text>
+    <text x="455" y="167" text-anchor="middle" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="14" font-weight="700" fill="#047857">🏅 Project Admin</text>
+    <text x="455" y="190" text-anchor="middle" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="14" font-weight="700" fill="#047857">&amp; Contributor</text>
+  </g>
+
+  <!-- SSOC -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.55s" fill="freeze"/>
+    <rect x="610" y="65" width="270" height="150" rx="14" fill="#0EA5E9"/>
+    <rect x="610" y="103" width="270" height="112" rx="10" fill="#FFFFFF"/>
+    <text x="745" y="90" text-anchor="middle" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">SSOC</text>
+    <text x="745" y="133" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="12" fill="#6B7280">Social Summer of Code</text>
+    <text x="745" y="167" text-anchor="middle" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="14" font-weight="700" fill="#0369A1">🏅 Project Admin</text>
+    <text x="745" y="190" text-anchor="middle" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="14" font-weight="700" fill="#0369A1">&amp; Contributor</text>
+  </g>
+
+  <!-- ELUSOC -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.75s" fill="freeze"/>
+    <rect x="900" y="65" width="270" height="150" rx="14" fill="#F97316"/>
+    <rect x="900" y="103" width="270" height="112" rx="10" fill="#FFFFFF"/>
+    <text x="1035" y="90" text-anchor="middle" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">ELUSOC</text>
+    <text x="1035" y="133" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="12" fill="#6B7280">Open Source Program</text>
+    <text x="1035" y="167" text-anchor="middle" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="14" font-weight="700" fill="#C2410C">🏅 Project Admin</text>
+    <text x="1035" y="190" text-anchor="middle" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="14" font-weight="700" fill="#C2410C">&amp; Contributor</text>
+  </g>
+</svg>
