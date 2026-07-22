@@ -24,8 +24,8 @@
 
   <!-- Node 1: Foundations -->
   <g>
-    <circle cx="90" cy="170" r="15" fill="#F59E0B" stroke="#FFFDF8" stroke-width="4" transform="scale(0)" transform-origin="90 170">
-      <animateTransform attributeName="transform" type="scale" from="0" to="1" dur="0.4s" begin="0.3s" fill="freeze" additive="sum"/>
+    <circle cx="90" cy="170" r="0" fill="#F59E0B" stroke="#FFFDF8" stroke-width="4">
+      <animate attributeName="r" from="0" to="15" dur="0.4s" begin="0.3s" fill="freeze"/>
     </circle>
     <text x="90" y="176" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" opacity="0">1
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.5s" fill="freeze"/>
@@ -40,8 +40,8 @@
 
   <!-- Node 2: Mobile -->
   <g>
-    <circle cx="345" cy="170" r="15" fill="#82AB46" stroke="#FFFDF8" stroke-width="4" transform="scale(0)" transform-origin="345 170">
-      <animateTransform attributeName="transform" type="scale" from="0" to="1" dur="0.4s" begin="0.65s" fill="freeze" additive="sum"/>
+    <circle cx="345" cy="170" r="0" fill="#82AB46" stroke="#FFFDF8" stroke-width="4">
+      <animate attributeName="r" from="0" to="15" dur="0.4s" begin="0.65s" fill="freeze"/>
     </circle>
     <text x="345" y="176" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" opacity="0">2
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.85s" fill="freeze"/>
@@ -56,8 +56,8 @@
 
   <!-- Node 3: Full-Stack Web -->
   <g>
-    <circle cx="600" cy="170" r="15" fill="#10B981" stroke="#FFFDF8" stroke-width="4" transform="scale(0)" transform-origin="600 170">
-      <animateTransform attributeName="transform" type="scale" from="0" to="1" dur="0.4s" begin="1s" fill="freeze" additive="sum"/>
+    <circle cx="600" cy="170" r="0" fill="#10B981" stroke="#FFFDF8" stroke-width="4">
+      <animate attributeName="r" from="0" to="15" dur="0.4s" begin="1s" fill="freeze"/>
     </circle>
     <text x="600" y="176" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" opacity="0">3
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.2s" fill="freeze"/>
@@ -72,8 +72,8 @@
 
   <!-- Node 4: Open Source -->
   <g>
-    <circle cx="855" cy="170" r="15" fill="#0FAFB5" stroke="#FFFDF8" stroke-width="4" transform="scale(0)" transform-origin="855 170">
-      <animateTransform attributeName="transform" type="scale" from="0" to="1" dur="0.4s" begin="1.35s" fill="freeze" additive="sum"/>
+    <circle cx="855" cy="170" r="0" fill="#0FAFB5" stroke="#FFFDF8" stroke-width="4">
+      <animate attributeName="r" from="0" to="15" dur="0.4s" begin="1.35s" fill="freeze"/>
     </circle>
     <text x="855" y="176" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" opacity="0">4
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.55s" fill="freeze"/>
@@ -88,8 +88,8 @@
 
   <!-- Node 5: Capstone -->
   <g>
-    <circle cx="1110" cy="170" r="17" fill="#0EA5E9" stroke="#FFFDF8" stroke-width="4" transform="scale(0)" transform-origin="1110 170">
-      <animateTransform attributeName="transform" type="scale" from="0" to="1" dur="0.45s" begin="1.7s" fill="freeze" additive="sum"/>
+    <circle cx="1110" cy="170" r="0" fill="#0EA5E9" stroke="#FFFDF8" stroke-width="4">
+      <animate attributeName="r" from="0" to="17" dur="0.45s" begin="1.7s" fill="freeze"/>
     </circle>
     <text x="1110" y="176" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" opacity="0">5
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.95s" fill="freeze"/>
