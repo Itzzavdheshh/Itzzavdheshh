@@ -100,21 +100,6 @@ Lets a guest or AI agent join a host's live Chrome tab as a ghost collaborator �
 <img src="assets/metrics-isocalendar.svg" width="100%" alt="3D isometric contribution calendar" />
 
 <!--START_SECTION:STATS-->
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Itzzavdheshh&show_icons=true&hide_border=true&bg_color=FFFDF8&title_color=D97706&text_color=1F2937&icon_color=059669&ring_color=0EA5E9" alt="GitHub Stats" width="100%" />
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Itzzavdheshh&hide_border=true&background=FFFDF8&stroke=0EA5E9&ring=D97706&fire=D97706&currStreakLabel=1F2937&sideLabels=1F2937&currStreakNum=1F2937&sideNums=1F2937&dates=6B7280" alt="Streak Stats" width="100%" />
-
-</td>
-</tr>
-</table>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itzzavdheshh&bg_color=FFFDF8&color=1F2937&line=D97706&point=059669&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 
 <picture>
@@ -143,7 +128,7 @@ _Auto-updated daily — pulled directly from this account's public repos._
 
 <!--START_SECTION:FORKS-->
 <details>
-<summary>Show 40 forked repositories</summary>
+<summary>Show 39 forked repositories</summary>
 
 - [PingUp](https://github.com/Itzzavdheshh/PingUp)
 - [VoiceForge](https://github.com/Itzzavdheshh/VoiceForge) — VoiceForge is a browser-based assistive video tool that lets a user type during calls and output cloned speech with a lip-synced face preview.
@@ -154,7 +139,6 @@ _Auto-updated daily — pulled directly from this account's public repos._
 - [CommDesk](https://github.com/Itzzavdheshh/CommDesk) — CommDesk is a modern desktop platform built for communities, clubs, and organizations to manage their activities in one place.
 - [DevCard](https://github.com/Itzzavdheshh/DevCard)
 - [reframe](https://github.com/Itzzavdheshh/reframe) — Free, open-source video editor that runs in your browser. No login, no uploads, no ads.
-- [GSoC-Org-Finder-](https://github.com/Itzzavdheshh/GSoC-Org-Finder-) — Find your perfect GSoC 2026 organization- filter all 184 selected orgs by your tech stack, language, and domain. No install needed.
 - [grad](https://github.com/Itzzavdheshh/grad)
 - [NexaSphere-gssoc](https://github.com/Itzzavdheshh/NexaSphere-gssoc)
 - [NexaSphere](https://github.com/Itzzavdheshh/NexaSphere)
