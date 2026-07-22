@@ -1,0 +1,5 @@
+<svg viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Isometric calendar placeholder">
+  <rect x="1" y="1" width="1198" height="218" rx="16" ry="16" fill="#FFFDF8" stroke="#F0EAD9" stroke-width="1"/>
+  <text x="600" y="102" text-anchor="middle" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="18" fill="#6B7280">🧊 3D contribution calendar will appear here after the "Generate GitHub Metrics" workflow runs</text>
+  <text x="600" y="130" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#9CA3AF">Trigger it once from the Actions tab — see SETUP.md step 5</text>
+</svg>
