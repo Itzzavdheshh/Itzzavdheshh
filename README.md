@@ -52,7 +52,6 @@
 <br/>
 
 ## 🗺️ My Dev Journey
-
 <img src="assets/timeline.svg" width="100%" alt="Tech journey timeline" />
 
 <br/>
