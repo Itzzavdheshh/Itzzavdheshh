@@ -92,10 +92,10 @@ Real-time browser collaboration platform.
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=itzzavdheshh&show_icons=true&theme=radical&cache_seconds=1800&random=901&v=6)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzzavdheshh&theme=radical&count_private=true&cache_seconds=1800&random=902)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=itzzavdheshh&theme=radical&cache_seconds=1800&random=901&v=6)
 
-<!--START_SECTION:STATS-->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Itzzavdheshh&bg_color=FFFDF8&color=1F2937&line=D97706&point=059669&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzzavdheshh&theme=tokyo-night" />
+</p>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Itzzavdheshh/Itzzavdheshh/output/github-contribution-grid-snake-dark.svg" />
