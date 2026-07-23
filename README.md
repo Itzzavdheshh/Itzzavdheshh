@@ -38,35 +38,8 @@
 
 ## 🛠️ Tech Stack
 
-## 💻 Languages
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,java,flutter,androidstudio,kotlin,js,ts,nodejs,express,postgres,git,githubactions,docker,vercel&theme=dark" />
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,kotlin,js,ts&theme=light" />
-</div>
-
-## 🌐 Frontend
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=light" />
-</div>
-
-## ⚙️ Backend
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres&theme=light" />
-</div>
-
-## 📱 Mobile
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio&theme=light" />
-</div>
-
-## 🧰 Tools
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,githubactions,docker,vercel&theme=light" />
-</div>
 
 ---
 
@@ -115,11 +88,11 @@ Real-time browser collaboration platform.
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itzzavdheshh&show_icons=true&theme=tokyonight" />
-  
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itzzavdheshh&layout=compact&theme=tokyonight&langs_count=10"/>
-</p>
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=itzzavdheshh&show_icons=true&theme=radical&cache_seconds=1800&random=901&v=6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzzavdheshh&theme=radical&count_private=true&cache_seconds=1800&random=902)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=itzzavdheshh&theme=radical&cache_seconds=1800&random=901&v=6)
 
 <!--START_SECTION:STATS-->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itzzavdheshh&bg_color=FFFDF8&color=1F2937&line=D97706&point=059669&area=true&hide_border=true" alt="Activity Graph" width="100%" />
