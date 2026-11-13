@@ -66,23 +66,23 @@ Mentorship platform with real-time booking.
 
 ---
 
-### 🔊 [VoiceForge](https://github.com/itzzavdhesh/VoiceForge) — Open Source TTS Platform
+### 🔊 [VoiceForge](https://github.com/itzzavdheshh/VoiceForge) — Open Source TTS Platform
 Open-source AI text-to-speech platform.
 
 `React` `Node.js` `Chatterbox TTS`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://voice-forge-client.vercel.app)
-[![Repository](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itzzavdhesh/VoiceForge)
+[![Repository](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itzzavdheshh/VoiceForge)
 
 ---
 
-### 🖥️ [TabTwin](https://github.com/itzzavdhesh/TabTwin) — Real-Time Browser Collaboration
+### 🖥️ [TabTwin](https://github.com/itzzavdheshh/TabTwin) — Real-Time Browser Collaboration
 Real-time browser collaboration platform.
 
 `React` `Vite` `Tailwind` `Node.js` `Chrome MV3`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://tabtwinwebapp-production.up.railway.app/)
-[![Repository](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itzzavdhesh/TabTwin)
+[![Repository](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itzzavdheshh/TabTwin)
 
 ---
 
